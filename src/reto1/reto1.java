@@ -5,6 +5,13 @@ import java.util.Scanner;
 public class reto1 {
     public static void main(String[] args) {
 
+        /*
+        Ejercicio 1: Dados los números del 1 hasta un número positivo introducido por el usuario, calcular:
+        - La suma total de los números pares.
+        - Cuántos números impares hay en total.
+        */
+
+
         // Pedir al usuario un número positivo
         Scanner scanner = new Scanner(System.in);
         System.out.println("Introduce un número positivo: ");
