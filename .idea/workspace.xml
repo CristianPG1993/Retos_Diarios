@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41f5de64-003a-4c5b-b40c-d8a79e79c1dc" name="Changes" comment="Reto 2 en java.">
-      <change afterPath="$PROJECT_DIR$/src/reto2/reto2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Retos_Diarios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Retos_Diarios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
